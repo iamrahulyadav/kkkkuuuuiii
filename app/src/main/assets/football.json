@@ -1,0 +1,352 @@
+[
+ {
+   "FIELD1": "How many teams play in English Premier League?",
+   "FIELD2": "20",
+   "FIELD3": "18",
+   "FIELD4": "24",
+   "FIELD5": "22"
+ },
+ {
+   "FIELD1": "How many teams are relagated at the end of the Premier league season?",
+   "FIELD2": "3",
+   "FIELD3": "4",
+   "FIELD4": "2",
+   "FIELD5": "1"
+ },
+ {
+   "FIELD1": "How many teams are promoted to premier league from English football league championship?",
+   "FIELD2": "3",
+   "FIELD3": "2",
+   "FIELD4": "4",
+   "FIELD5": "1"
+ },
+ {
+   "FIELD1": "How many teams play in English Football league Championship?",
+   "FIELD2": "24",
+   "FIELD3": "18",
+   "FIELD4": "20",
+   "FIELD5": "22"
+ },
+ {
+   "FIELD1": "How many English teams normally qualify for champions league spot?",
+   "FIELD2": "4",
+   "FIELD3": "3",
+   "FIELD4": "2",
+   "FIELD5": "1"
+ },
+ {
+   "FIELD1": "Which Welsh club participated in Premier league for the first time?",
+   "FIELD2": "Swansea City",
+   "FIELD3": "Wrexham",
+   "FIELD4": "Cardiff city",
+   "FIELD5": "Newport County"
+ },
+ {
+   "FIELD1": "Which player has highest number of goals in Premier league?",
+   "FIELD2": "Alan Sherear",
+   "FIELD3": "Rooney",
+   "FIELD4": "Frank Lampard",
+   "FIELD5": "Thiery Henry"
+ },
+ {
+   "FIELD1": "Which player has highest number of assist in Premier league?",
+   "FIELD2": "Ryan Giggs",
+   "FIELD3": "WaynesRooney",
+   "FIELD4": "Steven Gerrard",
+   "FIELD5": "David Beckham"
+ },
+ {
+   "FIELD1": "Which goalkeeper has highest number of cleansheet in Premier league?",
+   "FIELD2": "Petr Cech",
+   "FIELD3": "David Degea",
+   "FIELD4": "Edwin Van der sar",
+   "FIELD5": "Tim Howard"
+ },
+ {
+   "FIELD1": "Which team has highest number of Premier league wins?",
+   "FIELD2": "Manchester United",
+   "FIELD3": "Arsenal",
+   "FIELD4": "Liverpool",
+   "FIELD5": "Chelsea"
+ },
+ {
+   "FIELD1": "Which team has highest number of Premier league goals?",
+   "FIELD2": "Manchester United",
+   "FIELD3": "Spurs",
+   "FIELD4": "Newcastle United",
+   "FIELD5": "Manchester City"
+ },
+ {
+   "FIELD1": "Who was 2016/17 manager of the season?",
+   "FIELD2": "Antonio Conte",
+   "FIELD3": "Jose Mourinho",
+   "FIELD4": "Mauricio Pochettino",
+   "FIELD5": "Josep Guardiola"
+ },
+ {
+   "FIELD1": "Which is the stadium of Manchester United?",
+   "FIELD2": "Old trafford",
+   "FIELD3": "Goodison Park",
+   "FIELD4": "Anfield",
+   "FIELD5": "Etihad Stadium"
+ },
+ {
+   "FIELD1": "Which is the stadium of Liverpool?",
+   "FIELD2": "Anfield",
+   "FIELD3": "Stanley Park",
+   "FIELD4": "Wembley",
+   "FIELD5": "Stadium of Light"
+ },
+ {
+   "FIELD1": "What is the nickname of Manchester United?",
+   "FIELD2": "The Red Devils",
+   "FIELD3": "The Reds",
+   "FIELD4": "The Toon Army",
+   "FIELD5": "Blues"
+ },
+ {
+   "FIELD1": "What is the nickname of Chelsea FC?",
+   "FIELD2": "Blues",
+   "FIELD3": "Boro",
+   "FIELD4": "Blades",
+   "FIELD5": "Blue Submarine"
+ },
+ {
+   "FIELD1": "What is the nickname of Arsenal FC?",
+   "FIELD2": "Gunners",
+   "FIELD3": "The Red and White Army",
+   "FIELD4": "Geordie",
+   "FIELD5": "Toons"
+ },
+ {
+   "FIELD1": "What is the nickname of Newcastle FC?",
+   "FIELD2": "The Magpies",
+   "FIELD3": "Hornets",
+   "FIELD4": "Navys",
+   "FIELD5": "Lions"
+ },
+ {
+   "FIELD1": "What is the nickname of Liverpool FC?",
+   "FIELD2": "Reds",
+   "FIELD3": "Royals",
+   "FIELD4": "Riversiders",
+   "FIELD5": "Saints"
+ },
+ {
+   "FIELD1": "Which English team has won most European Cup?",
+   "FIELD2": "Liverpool",
+   "FIELD3": "Manchester United",
+   "FIELD4": "Chelsea",
+   "FIELD5": "Astonvilla"
+ },
+ {
+   "FIELD1": "Which team has most wins in a English Premier league season?",
+   "FIELD2": "Chelsea",
+   "FIELD3": "Spurs",
+   "FIELD4": "Arsenal",
+   "FIELD5": "Manchester United"
+ },
+ {
+   "FIELD1": "Which team has fewest wins in a English Premier league season?",
+   "FIELD2": "Derby",
+   "FIELD3": "Blackpool",
+   "FIELD4": "Norwich",
+   "FIELD5": "Sunderland"
+ },
+ {
+   "FIELD1": "Normally, what determines the position of a team in premier league when both teams are equal in points?",
+   "FIELD2": "Overall Goal Difference",
+   "FIELD3": "Away Goals",
+   "FIELD4": "Home goals",
+   "FIELD5": "Alphabetical Order"
+ },
+ {
+   "FIELD1": "Which team has gone undefeated in a premier league season?",
+   "FIELD2": "Arsenal",
+   "FIELD3": "Manchester United",
+   "FIELD4": "Manchester City",
+   "FIELD5": "Chelsea"
+ },
+ {
+   "FIELD1": "Which team has earned the nickname \"The Invincibles\"?",
+   "FIELD2": "Arsenal",
+   "FIELD3": "Chelsea",
+   "FIELD4": "Liverpool",
+   "FIELD5": "Manchester United"
+ },
+ {
+   "FIELD1": "Which team had most point in a premier league season?",
+   "FIELD2": "Chelsea",
+   "FIELD3": "Arsenal",
+   "FIELD4": "Liverpool",
+   "FIELD5": "Manchester United"
+ },
+ {
+   "FIELD1": "Which team had most point in a premier league season while being relegated?",
+   "FIELD2": "Crystal Palace",
+   "FIELD3": "Derby county",
+   "FIELD4": "Norwich",
+   "FIELD5": "Blackpool"
+ },
+ {
+   "FIELD1": "Which player scored most premier league goals for a single club?",
+   "FIELD2": "Wayne Rooney",
+   "FIELD3": "Teddy Sheringham",
+   "FIELD4": "Fernando Torres",
+   "FIELD5": "Luis Suarez"
+ },
+ {
+   "FIELD1": "Which player scored goals in consecutive premier league matches?",
+   "FIELD2": "Jamie Vardy",
+   "FIELD3": "Wayne Rooney",
+   "FIELD4": "Luis Suarez",
+   "FIELD5": "Thiery Henry"
+ },
+ {
+   "FIELD1": "Which player has scored most premier league goal in a calender year?",
+   "FIELD2": "Alan Sherear",
+   "FIELD3": "Wayne Rooney",
+   "FIELD4": "Thiery Henry",
+   "FIELD5": "Robin Van persie"
+ },
+ {
+   "FIELD1": "What was thetime of  fastest goal scored in Premier league?",
+   "FIELD2": "10 second",
+   "FIELD3": "20 second",
+   "FIELD4": "26 second",
+   "FIELD5": "22 second"
+ },
+ {
+   "FIELD1": "Which player scored longest range premier league goal?",
+   "FIELD2": "Asmir Begovic",
+   "FIELD3": "Frank Lampard",
+   "FIELD4": "Steven Gerrard",
+   "FIELD5": "Ryan Giggs"
+ },
+ {
+   "FIELD1": "Which player has most yellow cards in Premier league?",
+   "FIELD2": "Gareth Barry",
+   "FIELD3": "Rio Ferdinand",
+   "FIELD4": "Les Ferdinand",
+   "FIELD5": "Paul Scholes"
+ },
+ {
+   "FIELD1": "Which is the youngest player to score in Premier league?",
+   "FIELD2": "James Vaughan",
+   "FIELD3": "James Milner",
+   "FIELD4": "Wayne Rooney",
+   "FIELD5": "Micheal Owen"
+ },
+ {
+   "FIELD1": "What is the biggest home win till date in Premier league?",
+   "FIELD2": "Manchester United",
+   "FIELD3": "Arsenal",
+   "FIELD4": "Chelsea",
+   "FIELD5": "Liverpool"
+ },
+ {
+   "FIELD1": "Which team has most away win in a premier league season?",
+   "FIELD2": "Chelsea",
+   "FIELD3": "Manchester United",
+   "FIELD4": "Leicester",
+   "FIELD5": "Liverpool"
+ },
+ {
+   "FIELD1": "What is the nickname of Westham United?",
+   "FIELD2": "Hammers",
+   "FIELD3": "Chairboys",
+   "FIELD4": "Cherries",
+   "FIELD5": "Tigers"
+ },
+ {
+   "FIELD1": "Which manager has won highest number of premier league title?",
+   "FIELD2": "Alex Ferguson",
+   "FIELD3": "Arsene Wenger",
+   "FIELD4": "Jose Mourinho",
+   "FIELD5": "Kenny Dalglish"
+ },
+ {
+   "FIELD1": "In which year Leicester city won the Premier League title?",
+   "FIELD2": "2015-16",
+   "FIELD3": "2016-17",
+   "FIELD4": "2014-15",
+   "FIELD5": "2013-14"
+ },
+ {
+   "FIELD1": "Who is the longest serving manager in Premier league?",
+   "FIELD2": "Arsene Wenger",
+   "FIELD3": "Alex Ferguson",
+   "FIELD4": "David Moyes",
+   "FIELD5": "Harry Redknapp"
+ },
+ {
+   "FIELD1": "Which manager has most promotions to English Premier league?",
+   "FIELD2": "Steve Bruce",
+   "FIELD3": "Harry Redknapp",
+   "FIELD4": "David Moyes",
+   "FIELD5": "Brenden Rodgers"
+ },
+ {
+   "FIELD1": "Which team has fewest points while surviving relegation?",
+   "FIELD2": "Westbrom",
+   "FIELD3": "Portsmouth",
+   "FIELD4": "Blackpool",
+   "FIELD5": "Hull city"
+ },
+ {
+   "FIELD1": "Who is the oldest goalscorer of Premier league?",
+   "FIELD2": "Teddy Sheringham",
+   "FIELD3": "Steven Gerrard",
+   "FIELD4": "Frank Lampard",
+   "FIELD5": "Scott parker"
+ },
+ {
+   "FIELD1": "How many teams qualify for playoff for promotion to premier league in English football league championship?",
+   "FIELD2": "4",
+   "FIELD3": "3",
+   "FIELD4": "2",
+   "FIELD5": "6"
+ },
+ {
+   "FIELD1": "Which player has scored most own goal in Premier league history?",
+   "FIELD2": "Richard Dunne",
+   "FIELD3": "John Terry",
+   "FIELD4": "Michael Turner",
+   "FIELD5": "Jamie Carragher"
+ },
+ {
+   "FIELD1": "What is the nickname of Watford?",
+   "FIELD2": "Hornets",
+   "FIELD3": "Reds",
+   "FIELD4": "Bury",
+   "FIELD5": "Bladers"
+ },
+ {
+   "FIELD1": "Which Premier league team's name is Foxes?",
+   "FIELD2": "Leicester",
+   "FIELD3": "Crystal Palace",
+   "FIELD4": "Watford",
+   "FIELD5": "Stoke city"
+ },
+ {
+   "FIELD1": "How many teams were present in the very first season of Premier league?",
+   "FIELD2": "22",
+   "FIELD3": "18",
+   "FIELD4": "20",
+   "FIELD5": "24"
+ },
+ {
+   "FIELD1": "How many league games do a team play in a premier league season?",
+   "FIELD2": "38",
+   "FIELD3": "36",
+   "FIELD4": "40",
+   "FIELD5": "34"
+ },
+ {
+   "FIELD1": "Which team has never faced relegation in Premier league era?",
+   "FIELD2": "Liverpool",
+   "FIELD3": "Manchester City",
+   "FIELD4": "Leicester",
+   "FIELD5": "Southampton"
+ }
+]

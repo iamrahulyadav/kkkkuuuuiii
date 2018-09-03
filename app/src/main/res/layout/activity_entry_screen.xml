@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_entry_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?colorPrimaryDark"
+    tools:context="tech.kandara.quizapp.EntryScreen">
+
+    <RelativeLayout
+        android:id="@+id/otherScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?colorPrimaryDark">
+
+        <LinearLayout
+            android:id="@+id/guestMo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="15dp"
+            android:gravity="center"
+            android:paddingRight="40dp"
+            android:paddingLeft="40dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/ic_quiz_logo" />
+
+            <Button
+                android:id="@+id/guestMode"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_above="@+id/gplusBtn"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/bg_button_timeout"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:text="Login As Guest"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="OR"
+                android:layout_margin="15dp"
+                android:gravity="center"
+                android:textColor="@color/color_white"
+                android:layout_below="@+id/guestMo"
+                />
+
+
+            <Button
+                android:id="@+id/gplusBtn"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/bg_button_gplus"
+                android:gravity="center"
+                android:onClick="onClick"
+                android:text="G+ Login"
+                android:textAllCaps="false"
+                android:textColor="#ffffff" />
+
+
+            <Button
+                android:id="@+id/fb"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/bg_button_facebook"
+                android:gravity="center"
+                android:onClick="onClick"
+                android:text="Facebook Login"
+                android:textAllCaps="false"
+                android:textColor="#ffffff" />
+
+
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/loadingScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/adView"
+        android:background="?colorPrimaryDark"
+        android:visibility="gone">
+
+        <com.ldoublem.loadingviewlib.view.LVBlazeWood
+            android:id="@+id/lv_block"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

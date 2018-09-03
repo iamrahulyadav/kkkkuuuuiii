@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context="tech.kandara.quizapp.Fragments.AboutUsFragment">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_margin="30dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kandara Tech"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:gravity="center"
+            android:textColor="@color/colorPrimary"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="We specialize in mobile app and game development. We love to get feedback from our users. Please feel free to email us, we'll be happy to hear from you!"
+            android:textSize="15dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:textColor="@color/color_white"
+            />
+
+        <Button
+            android:id="@+id/contactUsBtn"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Contact Us"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bg_button_timeout"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

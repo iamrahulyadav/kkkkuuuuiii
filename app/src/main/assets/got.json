@@ -1,0 +1,352 @@
+[
+ {
+   "FIELD1": "How many kingdoms are there in Westoros?",
+   "FIELD2": "7",
+   "FIELD3": "9",
+   "FIELD4": "5",
+   "FIELD5": "8"
+ },
+ {
+   "FIELD1": "Which of Daenerys Targaryen's three dragons are the largest?",
+   "FIELD2": "Drogon",
+   "FIELD3": "Rhaegal",
+   "FIELD4": "Viserion",
+   "FIELD5": "Balerion"
+ },
+ {
+   "FIELD1": "Who killed Beric Dondarrion first?",
+   "FIELD2": "The Mountain",
+   "FIELD3": "Jamie Lannister",
+   "FIELD4": "Joffrey Baratheon",
+   "FIELD5": "Varys"
+ },
+ {
+   "FIELD1": "What is the sigil representing  House Baratheon?",
+   "FIELD2": "Stag",
+   "FIELD3": "Lion",
+   "FIELD4": "Boar",
+   "FIELD5": "Wolves"
+ },
+ {
+   "FIELD1": "What is the name of Theon Greyjoy's Ship?",
+   "FIELD2": "Sea Bitch",
+   "FIELD3": "Fury",
+   "FIELD4": "Sun's hand",
+   "FIELD5": "Iron maiden"
+ },
+ {
+   "FIELD1": "What does Khal Drogo calls Ships?",
+   "FIELD2": "Wooden Horse",
+   "FIELD3": "Moving Cities",
+   "FIELD4": "Black Magic",
+   "FIELD5": "Evil Magic"
+ },
+ {
+   "FIELD1": "What does Khaleesi mean?",
+   "FIELD2": "Wife of the khal",
+   "FIELD3": "Queen",
+   "FIELD4": "Mother",
+   "FIELD5": "Warrior"
+ },
+ {
+   "FIELD1": "What is the name of Ned Stark's Sword?",
+   "FIELD2": "Ice",
+   "FIELD3": "Ravenclaw",
+   "FIELD4": "Winter killer",
+   "FIELD5": "Longclaw"
+ },
+ {
+   "FIELD1": "What does Brienne request after winning Renly's tournament?",
+   "FIELD2": "For place in Renly's Kingsguard",
+   "FIELD3": "Gold",
+   "FIELD4": "Safe passage Home",
+   "FIELD5": "Leave to accompany Catelyn Stark"
+ },
+ {
+   "FIELD1": "Who is Joffrey Baratheon's Father?",
+   "FIELD2": "Jamie Lannister",
+   "FIELD3": "Robert Baratheon",
+   "FIELD4": "Ned Stark",
+   "FIELD5": "Benjin Stark"
+ },
+ {
+   "FIELD1": "Who has Brienne swore her loyalty to?",
+   "FIELD2": "Catelyn Stark",
+   "FIELD3": "House Stark",
+   "FIELD4": "House Baratheon",
+   "FIELD5": "Jamie Lannister"
+ },
+ {
+   "FIELD1": "Who is Bran Stark named after?",
+   "FIELD2": "His Uncle",
+   "FIELD3": "His Father",
+   "FIELD4": "His Grandfather",
+   "FIELD5": "His Brother"
+ },
+ {
+   "FIELD1": "Who is Little finger referring to when he says \"Quick temper, Slow Minds?",
+   "FIELD2": "House Stark",
+   "FIELD3": "House Baratheon",
+   "FIELD4": "House Tyrell",
+   "FIELD5": "House Targaryen"
+ },
+ {
+   "FIELD1": "Who cuts off Jaime Lannister's hand?",
+   "FIELD2": "Locke",
+   "FIELD3": "Roose Bolton",
+   "FIELD4": "Rickark Kanstark",
+   "FIELD5": "Polliver"
+ },
+ {
+   "FIELD1": "Who says: \"Chaos isn't a pit, it's a ladder\"?",
+   "FIELD2": "Littlefinger",
+   "FIELD3": "Varys",
+   "FIELD4": "Tyrion Lannister",
+   "FIELD5": "Ned Stark"
+ },
+ {
+   "FIELD1": "What is the name of Arya Stark's sword?",
+   "FIELD2": "Needle",
+   "FIELD3": "Nymeria",
+   "FIELD4": "Cut throat",
+   "FIELD5": "Lion's bane"
+ },
+ {
+   "FIELD1": "Where is the Iron Bank?",
+   "FIELD2": "Braavos",
+   "FIELD3": "High Garden",
+   "FIELD4": "Dorne",
+   "FIELD5": "Pyke"
+ },
+ {
+   "FIELD1": "Where does Red wedding takes place?",
+   "FIELD2": "The twins",
+   "FIELD3": "The Red keep",
+   "FIELD4": "Riverrun",
+   "FIELD5": "Winterfell"
+ },
+ {
+   "FIELD1": "Who gives Robert baratheon poisoned wine?",
+   "FIELD2": "Lancel Lannister",
+   "FIELD3": "Jamie Lannister",
+   "FIELD4": "Petr Baelish",
+   "FIELD5": "Cersei Lannister"
+ },
+ {
+   "FIELD1": "what does \"Dracarys\" mean?",
+   "FIELD2": "Dragonfire",
+   "FIELD3": "Kill",
+   "FIELD4": "Dragon",
+   "FIELD5": "Burn"
+ },
+ {
+   "FIELD1": "Where is Melisandre from?",
+   "FIELD2": "Asshai",
+   "FIELD3": "High Garden",
+   "FIELD4": "Dorne",
+   "FIELD5": "Riverun"
+ },
+ {
+   "FIELD1": "What is the bastard surname in Dorne?",
+   "FIELD2": "Sand",
+   "FIELD3": "Snow",
+   "FIELD4": "Storm",
+   "FIELD5": "Dune"
+ },
+ {
+   "FIELD1": "What is the name of Rickon's direwolf?",
+   "FIELD2": "Shaggydog",
+   "FIELD3": "Ghost",
+   "FIELD4": "Nymeria",
+   "FIELD5": "Greywind"
+ },
+ {
+   "FIELD1": "what is the name of Jon Snow's direwolf?",
+   "FIELD2": "Ghost",
+   "FIELD3": "Nymeria",
+   "FIELD4": "Greywind",
+   "FIELD5": "Shaggydog"
+ },
+ {
+   "FIELD1": "who is known as young wolf?",
+   "FIELD2": "Robb Stark",
+   "FIELD3": "Bran Stark",
+   "FIELD4": "Ned Stark",
+   "FIELD5": "Rickon Stark"
+ },
+ {
+   "FIELD1": "Where is the seat of House Lannister?",
+   "FIELD2": "Casterly rock",
+   "FIELD3": "High Garden",
+   "FIELD4": "Dorne",
+   "FIELD5": "Riverrun"
+ },
+ {
+   "FIELD1": "How did Joffrey died?",
+   "FIELD2": "By Poison",
+   "FIELD3": "By Sword",
+   "FIELD4": "By Whitewalker",
+   "FIELD5": "By Wights"
+ },
+ {
+   "FIELD1": "According to show, how much does Jon Snow know?",
+   "FIELD2": "Nothing",
+   "FIELD3": "A bit ",
+   "FIELD4": "Something ",
+   "FIELD5": "A more"
+ },
+ {
+   "FIELD1": "Which of the following is NOT a family in Game of Thrones?",
+   "FIELD2": "Mortensen",
+   "FIELD3": "Mormont",
+   "FIELD4": "Stark",
+   "FIELD5": "Tyrell"
+ },
+ {
+   "FIELD1": "What does Tyrion murder his father with?",
+   "FIELD2": "Crossbow",
+   "FIELD3": "Poison",
+   "FIELD4": "Sword",
+   "FIELD5": "Dagger"
+ },
+ {
+   "FIELD1": "Who is known as \"The Kingslayer\"?",
+   "FIELD2": "Jamie Lannister",
+   "FIELD3": "Eddard Stark",
+   "FIELD4": "Sandor Clegane",
+   "FIELD5": "Robb Stark"
+ },
+ {
+   "FIELD1": "What murders Lady Walda and her child?",
+   "FIELD2": "Dogs",
+   "FIELD3": "Wolves",
+   "FIELD4": "Birds of Prey",
+   "FIELD5": "Wights"
+ },
+ {
+   "FIELD1": "What was Lord Petyr Baelish's role on the Small Council?",
+   "FIELD2": "Master of Coin",
+   "FIELD3": "Master of War",
+   "FIELD4": "Lord Commander",
+   "FIELD5": "Master of Ships"
+ },
+ {
+   "FIELD1": "When did Daenerys receive the dragon eggs?",
+   "FIELD2": "They were a wedding gift from Magister Illyrio.",
+   "FIELD3": "She found them the first night she traveled with the Dothraki.",
+   "FIELD4": "They were a welcome gift after arriving at the city of Astapor in Slaver's Bay.",
+   "FIELD5": "A scout brought them to her after exploring the Red Waste and trying to find shelter."
+ },
+ {
+   "FIELD1": "What is Sandor Clegane's nickname?",
+   "FIELD2": "The Hound",
+   "FIELD3": "The Bastard of Bolton",
+   "FIELD4": "The Kingslayer",
+   "FIELD5": "The Mountain"
+ },
+ {
+   "FIELD1": "What is the name of the deadly disease that causes the surface of the skin to harden and calcify?",
+   "FIELD2": "Greyscale",
+   "FIELD3": "Geostigma",
+   "FIELD4": "Lampington's disease",
+   "FIELD5": "Black Trump"
+ },
+ {
+   "FIELD1": "What is the profession of Daario Naharis?",
+   "FIELD2": "Tyroshi sellsword",
+   "FIELD3": "Pear brandy connoisseur",
+   "FIELD4": "Leader of the Unsullied",
+   "FIELD5": "Member of the Night's Watch"
+ },
+ {
+   "FIELD1": "Who married at the Red Wedding?",
+   "FIELD2": "Edmure Tully and Roslin Frey",
+   "FIELD3": "Catelyn Tully and Eddard Stark\n",
+   "FIELD4": "Robart Baratheon and Cersei Lannister",
+   "FIELD5": "Lysa Tully and Jon Arryn"
+ },
+ {
+   "FIELD1": "What is the meaning of \"Valar morghulis\"?",
+   "FIELD2": "All men must die.",
+   "FIELD3": "Do the best. Be the best.",
+   "FIELD4": "Where there's a will, there's a way.",
+   "FIELD5": "There is a way to do it."
+ },
+ {
+   "FIELD1": "What was the name of the khal of the Dothraki that Daenerys marries?",
+   "FIELD2": "Drogo",
+   "FIELD3": "Drogon",
+   "FIELD4": "Renly",
+   "FIELD5": "Clegane"
+ },
+ {
+   "FIELD1": "What does Bran Stark repeatedly dream of?",
+   "FIELD2": "A three eyed raven",
+   "FIELD3": "Whitewalker",
+   "FIELD4": "Direwolves",
+   "FIELD5": "Cersei Lannister"
+ },
+ {
+   "FIELD1": " What is Shae's profession when she first meets Tyrion?",
+   "FIELD2": "Prostitute",
+   "FIELD3": "Handmaiden",
+   "FIELD4": "Cook",
+   "FIELD5": "Nanny"
+ },
+ {
+   "FIELD1": "As the younger brother of Robert and older brother of Renly, who claims to have true ownership of the Iron Throne?",
+   "FIELD2": "Stannis Baratheon",
+   "FIELD3": "Varys",
+   "FIELD4": "Petyr Baelish",
+   "FIELD5": "Eddison Tollett\n"
+ },
+ {
+   "FIELD1": "Where are Sansa Stark and Jon Snow finally reunited?",
+   "FIELD2": "Castle Black at the Wall",
+   "FIELD3": "Winterfell",
+   "FIELD4": "King's landing",
+   "FIELD5": "Meereen"
+ },
+ {
+   "FIELD1": "What is it that Jaqen H'ghar teaches Arya Stark?",
+   "FIELD2": "How to be a Faceless Man.",
+   "FIELD3": "The best way to train a direwolf.",
+   "FIELD4": "The proper way to act like a lady.",
+   "FIELD5": "Stealing"
+ },
+ {
+   "FIELD1": "Who said this memorable line: \"First lesson: Stick them with the pointy end.\"",
+   "FIELD2": "Jon Snow",
+   "FIELD3": "Jamie Lannister",
+   "FIELD4": "Arya Stark",
+   "FIELD5": "Tywin Lannister"
+ },
+ {
+   "FIELD1": "Which of the following is NOT someone Margaery marries?",
+   "FIELD2": "Jorah Mormont",
+   "FIELD3": "Joffrey Baratheon",
+   "FIELD4": "Tommen Baratheon",
+   "FIELD5": "Renly Baratheon"
+ },
+ {
+   "FIELD1": "In which territory is Mance Rayder recognized as king?",
+   "FIELD2": "Beyond the Wall",
+   "FIELD3": "House Tyrell",
+   "FIELD4": "Westeros",
+   "FIELD5": "King's landing"
+ },
+ {
+   "FIELD1": "Which is the youngest child of Tywin Lannister?",
+   "FIELD2": "Tyrion Lannister",
+   "FIELD3": "Joanna Lannister",
+   "FIELD4": "Cersei Lannister",
+   "FIELD5": "Jamie Lannister"
+ },
+ {
+   "FIELD1": "What is Varys's nickname?",
+   "FIELD2": "The Spider",
+   "FIELD3": "The Dog",
+   "FIELD4": "The Hound",
+   "FIELD5": "Khal"
+ }
+]

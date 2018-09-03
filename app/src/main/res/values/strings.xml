@@ -1,0 +1,128 @@
+<resources>
+
+
+    <string name="profile">PROFILE</string>
+    <string name="feed">FEED</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="applicationId">SFhF3hUJZr1dVROvsJ6YSf8MTKCGO7PQKUXSjQWr</string>
+    <string name="clientKey">xV00nqJyHG6FI1zD8lkyogaQQQCjKTXOSPUGlQTU</string>
+    <string name="server">https://pg-app-h871w3vjmmxcdpgebyikxfhiej18x8.scalabl.cloud/1/</string>
+
+    <string name="rules">1. Each Game has 10 Question and Each Question has 4 Options.\n
+        2. You need to answer 7 questions correct in order to win the game.\n
+        3. Each wrong answer will deduct 1 Koin from your prize. If you dont know the answer you have the option to pass the question.\n
+        4. Each Question should be answered within 12 seconds.\n
+        5. You can play only 20 games per day. If you want to play more games, you can purchase it with some Koin.\n
+        6. You need 10 Energy to play One game\n
+        7. You need to view ad in order to add energy to your account.\n
+        8. The exchange value of 20 Koins is Rs. 1\n
+        9. All the requested payment will be processed at 1:00 PM</string>
+    <string name="gcm_sender_id">989487961069</string>
+    <string name="GCM_API_KEY">AIzaSyAcLZwJyFfR4rxsF0UyYUg3KTquS6A9rd4</string>
+    <string name="server_client_id">989487961069-gi1hbg2fa5mvc891traff6jejh5202pp.apps.googleusercontent.com</string>
+    <string name="default_progressbar">Default Progressbar:</string>
+    <string name="app_name">Kuiz</string>
+    <string name="facebook_app_id">1872877556308112</string>
+    <string name="fb_login_protocol_scheme">fb1872877556308112</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="check_icon">&#xf00c;</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="adcolony_app_id">app9413aecdc57640d785</string>
+    <string name="rewarded_zone_id">vz6ebe4a0fbcf24e3485</string>
+    <string name="rewarded_ad_unit_id">ca-app-pub-6411454661913949/9494722713</string>
+
+    <string name="banner_app_id">ca-app-pub-6411454661913949~8017989518</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6411454661913949/8458641518</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-6411454661913949/9935374719</string>
+
+
+    <string name="dialog_default_title">Here\'s a message!</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="LOADING">Loading...</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="terms_and_condition">1. App will post a photo to your profile saying you won some topup from Kuiz\n2. The transfer request will be processed after we look into your profile to check if the posted photo is still there. If we can\'t find the photo in your profile then we will be unable to process the request. \n3. The post\'s privacy must be set to public otherwise we can\'t verify.</string>
+</resources>

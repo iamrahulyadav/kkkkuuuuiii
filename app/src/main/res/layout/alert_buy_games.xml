@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:text="You have finished your daily games quota. Please buy games in order to play."
+        android:textColor="@color/colorPrimary"
+        android:textSize="18dp" />
+
+    <RadioGroup
+        android:id="@+id/schemes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/scheme1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="5 Games + 5 Energy\nPrice : 10 Koins" />
+
+
+        <RadioButton
+            android:id="@+id/scheme2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="10 Games + 10 Energy\nPrice : 20 Koins" />
+
+        <RadioButton
+            android:id="@+id/scheme3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="25 Games + 25 Energy\nPrice : 50 Koins" />
+
+        <RadioButton
+            android:id="@+id/scheme4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="50 Games + 50 Energy\nPrice : 100 Koins" />
+    </RadioGroup>
+</LinearLayout>

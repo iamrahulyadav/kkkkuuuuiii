@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#f9a020</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#f9a020</color>
+
+    <color name="cardColorUnseen">#91b110</color>
+    <color name="cardColorseen">#2c2c2c</color>
+    <color name="semi_transparent">#80000000</color>
+
+    <color name="cardBackground">#2d2d2d</color>
+    <color name="cardAlternateBackground">#323232</color>
+
+
+    <color name="colorBlue">#80c625</color>
+    <color name="colorGreen">#80c625</color>
+    <color name="colorRed">#ee6f2a</color>
+    <color name="color_white">#ffffff</color>
+
+
+    <color name="bgColor">#212121</color>
+    <color name="background_color">#212121</color>
+    <color name="foreground_color">#b42379</color>
+    <color name="background_text_color">#808080</color>
+    <color name="foreground_text_color">#eeeeee</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+</resources>

@@ -1,0 +1,353 @@
+[
+
+ {
+   "FIELD1": "Who is the Champion of FIFA World Cup 2010 South Africa? ",
+   "FIELD2": "Spain",
+   "FIELD3": "Germany",
+   "FIELD4": "Netherland",
+   "FIELD5": "Brazil"
+ },
+ {
+   "FIELD1": "Who is the Champion of FIFA World Cup 2006?",
+   "FIELD2": "Italy",
+   "FIELD3": "Germany",
+   "FIELD4": "Brazil",
+   "FIELD5": "Spain"
+ },
+ {
+   "FIELD1": "Who is the Champion of FIFA World Cup 2002?",
+   "FIELD2": "Brazil",
+   "FIELD3": "Germany",
+   "FIELD4": "Italy",
+   "FIELD5": "Spain"
+ },
+ {
+   "FIELD1": "Where was first World Cup held?",
+   "FIELD2": "Uruguay",
+   "FIELD3": "England",
+   "FIELD4": "Germany",
+   "FIELD5": "Argentina"
+ },
+ {
+   "FIELD1": "Which country has won most World cup?",
+   "FIELD2": "Brazil",
+   "FIELD3": "Argentina ",
+   "FIELD4": "Germany",
+   "FIELD5": "Italy"
+ },
+ {
+   "FIELD1": "Who was the winner of first World Cup?",
+   "FIELD2": "Uruguay",
+   "FIELD3": "Brazil",
+   "FIELD4": "Argentina",
+   "FIELD5": "England"
+ },
+ {
+   "FIELD1": "Which player scored most overall goals in World cup matches?",
+   "FIELD2": "Miroslav Klose",
+   "FIELD3": "Pele",
+   "FIELD4": "Maradona",
+   "FIELD5": "Ronaldo \"O Fenômeno\""
+ },
+ {
+   "FIELD1": "How many goals did the best scorer in the history of World cup score?",
+   "FIELD2": "16",
+   "FIELD3": "10",
+   "FIELD4": "12",
+   "FIELD5": "15"
+ },
+ {
+   "FIELD1": "How many World cups did Brazil, the country with most titles, win?",
+   "FIELD2": "5",
+   "FIELD3": "4",
+   "FIELD4": "6",
+   "FIELD5": "3"
+ },
+ {
+   "FIELD1": "Which country has most second place finishes?",
+   "FIELD2": "Germany",
+   "FIELD3": "Netherland",
+   "FIELD4": "England",
+   "FIELD5": "Italy"
+ },
+ {
+   "FIELD1": "How many time has Italy won the World Cup?",
+   "FIELD2": "4",
+   "FIELD3": "3",
+   "FIELD4": "2",
+   "FIELD5": "6"
+ },
+ {
+   "FIELD1": "Who is going to host 2022 World Cup?",
+   "FIELD2": "Qater",
+   "FIELD3": "Germany",
+   "FIELD4": "England",
+   "FIELD5": "Argentina"
+ },
+ {
+   "FIELD1": "Who is the top scorer in world cup from France?",
+   "FIELD2": "J.Fontaine",
+   "FIELD3": "T. Henry",
+   "FIELD4": "N. Anelka",
+   "FIELD5": "E.Cantona"
+ },
+ {
+   "FIELD1": "Who is the only goalkeeper to so far have won the Golden Ball - best player at the tournament - award?",
+   "FIELD2": "O.Kahn",
+   "FIELD3": "D.Seaman",
+   "FIELD4": "M. Neur",
+   "FIELD5": "J. Lehmann"
+ },
+ {
+   "FIELD1": "World cup was never held in one of these continents",
+   "FIELD2": "Australia/Oceania",
+   "FIELD3": "Asia",
+   "FIELD4": "N. America",
+   "FIELD5": "Africa"
+ },
+ {
+   "FIELD1": "Who is the oldest Captain to play in a World Cup?",
+   "FIELD2": "Peter Shilton",
+   "FIELD3": "Dino Zoff",
+   "FIELD4": "Tony Meola",
+   "FIELD5": "David James"
+ },
+ {
+   "FIELD1": "Who has most hat-tricks in World Cup?",
+   "FIELD2": " Sándor Kocsis ",
+   "FIELD3": "David Villa",
+   "FIELD4": "Ronaldo",
+   "FIELD5": "Rivaldo"
+ },
+ {
+   "FIELD1": "Who has the fastest hat-trick?",
+   "FIELD2": " László Kiss",
+   "FIELD3": "Ronaldo Nazario",
+   "FIELD4": "F.Torres",
+   "FIELD5": "C. Ronaldo"
+ },
+ {
+   "FIELD1": "Which player has longest period between one goal and another?",
+   "FIELD2": "Micheal Landrup",
+   "FIELD3": "P. Maldini",
+   "FIELD4": "Nesta",
+   "FIELD5": "D. Suarez"
+ },
+ {
+   "FIELD1": "This country lost three finals - in 1974, 1978 and 2010",
+   "FIELD2": "Netherlands",
+   "FIELD3": "Italy",
+   "FIELD4": "France",
+   "FIELD5": "Portugal"
+ },
+ {
+   "FIELD1": "Which of these countries never played in the final?",
+   "FIELD2": "Yugoslavia",
+   "FIELD3": "Hungary",
+   "FIELD4": "Sweden",
+   "FIELD5": "Czechoslovakia"
+ },
+ {
+   "FIELD1": "Which of these teams never won a World cup on their own soil",
+   "FIELD2": "Brazil",
+   "FIELD3": "Argentina ",
+   "FIELD4": "England",
+   "FIELD5": "Italy"
+ },
+ {
+   "FIELD1": "Where was the World Cup stolen and never returned?",
+   "FIELD2": "Rio De Janiero",
+   "FIELD3": "Paris",
+   "FIELD4": "Barcelona",
+   "FIELD5": "Buenes Ares"
+ },
+ {
+   "FIELD1": "How many goals was scored in the highest-scoring World Cup match?",
+   "FIELD2": "12",
+   "FIELD3": "10",
+   "FIELD4": "9",
+   "FIELD5": "8"
+ },
+ {
+   "FIELD1": "Scotland have qualified for eight World Cups, how many times have they progressed beyond the group stages?",
+   "FIELD2": "0",
+   "FIELD3": "4",
+   "FIELD4": "3",
+   "FIELD5": "2"
+ },
+ {
+   "FIELD1": "Turkey's Hakan Sukur scored the quickest goal in World Cup history, in his country's match South Korea in 2002, how many seconds had passed?",
+   "FIELD2": "11",
+   "FIELD3": "22",
+   "FIELD4": "30",
+   "FIELD5": "43"
+ },
+ {
+   "FIELD1": "How old was Pele when he scored for Brazil in 1958 World Cup?",
+   "FIELD2": "17",
+   "FIELD3": "16",
+   "FIELD4": "18",
+   "FIELD5": "15"
+ },
+ {
+   "FIELD1": "Luis Monti played for Argentina in the 1930 World Cup and which nation in the 1934 tournament?",
+   "FIELD2": "Italy",
+   "FIELD3": "Spain",
+   "FIELD4": "Brazil",
+   "FIELD5": "Uruguay"
+ },
+ {
+   "FIELD1": "How old was Roger Milla when he scored against Russia in 1994 to become the tournaments oldest goal scorer?38",
+   "FIELD2": "42",
+   "FIELD3": "",
+   "FIELD4": "35",
+   "FIELD5": "40"
+ },
+ {
+   "FIELD1": "How many managers have won a World Cup with a team not from their home nation?",
+   "FIELD2": "0",
+   "FIELD3": "1",
+   "FIELD4": "2",
+   "FIELD5": "3"
+ },
+ {
+   "FIELD1": "Of the 20 World Cups, how many have been won by the hosts?",
+   "FIELD2": "6",
+   "FIELD3": "4",
+   "FIELD4": "2",
+   "FIELD5": "3"
+ },
+ {
+   "FIELD1": "How many teams have successfully defended the World Cup trophy?",
+   "FIELD2": "2",
+   "FIELD3": "3",
+   "FIELD4": "0",
+   "FIELD5": "1"
+ },
+ {
+   "FIELD1": "Who scored the winning goal, in extra time, in the 2010 World Cup Final?",
+   "FIELD2": "Iniesta",
+   "FIELD3": "Xavi",
+   "FIELD4": "Robben",
+   "FIELD5": "Villa"
+ },
+ {
+   "FIELD1": "Which team has most meetings between themselves?",
+   "FIELD2": "Brazil and Sweden",
+   "FIELD3": "Brazil and Argentina",
+   "FIELD4": "Brazil and Italy",
+   "FIELD5": "Brazil and Russia"
+ },
+ {
+   "FIELD1": "In which years tournament was Davor Suker highest goalscorer?",
+   "FIELD2": "France 1998",
+   "FIELD3": "Mexico 1986",
+   "FIELD4": "Germany 2006",
+   "FIELD5": "United States 1994"
+ },
+ {
+   "FIELD1": "Which of this South American team has never won the World Cup?",
+   "FIELD2": "Chile",
+   "FIELD3": "Uruguay",
+   "FIELD4": "Brazil",
+   "FIELD5": "Argentina"
+ },
+ {
+   "FIELD1": "Which is the first host team not to win the World Cup?",
+   "FIELD2": "France ",
+   "FIELD3": "Uruguay",
+   "FIELD4": "Brazil",
+   "FIELD5": "England"
+ },
+ {
+   "FIELD1": "Which European country has most title?",
+   "FIELD2": "Italy",
+   "FIELD3": "England",
+   "FIELD4": "Spain",
+   "FIELD5": "Portugal"
+ },
+ {
+   "FIELD1": "Germany never beat one of these countries in the final?",
+   "FIELD2": "England",
+   "FIELD3": "Argentina ",
+   "FIELD4": "Netherland",
+   "FIELD5": "Hungary"
+ },
+ {
+   "FIELD1": "What does FIFA stand for?",
+   "FIELD2": "Fédération Internationale de Football Association",
+   "FIELD3": "Federal International Football Association",
+   "FIELD4": "Federación Internal deFútbol Associación",
+   "FIELD5": "Fútbol Internaciónal Famoso Associación"
+ },
+ {
+   "FIELD1": "In what year did the FIFA World Cup begin?",
+   "FIELD2": "1930",
+   "FIELD3": "1948",
+   "FIELD4": "1950",
+   "FIELD5": "1964"
+ },
+ {
+   "FIELD1": "What major historical event prevented two FIFA World Cup tournaments from being held?",
+   "FIELD2": "World War II",
+   "FIELD3": "The Cold War",
+   "FIELD4": "Vietnam War",
+   "FIELD5": "Pearl Harbor Attack"
+ },
+ {
+   "FIELD1": "How many teams were competing in the 2010 World Cup?",
+   "FIELD2": "32",
+   "FIELD3": "30",
+   "FIELD4": "45",
+   "FIELD5": "28"
+ },
+ {
+   "FIELD1": "When was the last time the World cup was held in the United States?",
+   "FIELD2": "1994",
+   "FIELD3": "1998",
+   "FIELD4": "2002",
+   "FIELD5": "1976"
+ },
+ {
+   "FIELD1": "How many goals has Gerd Muller scored in World Cup?",
+   "FIELD2": "14",
+   "FIELD3": "13",
+   "FIELD4": "12",
+   "FIELD5": "11"
+ },
+ {
+   "FIELD1": "How many goals has Pele scored in World Cup?",
+   "FIELD2": "12",
+   "FIELD3": "13",
+   "FIELD4": "14",
+   "FIELD5": "11"
+ },
+ {
+   "FIELD1": "‘We don’t trade jerseys with animals.’ England manger Alf Ramsey said to which team?",
+   "FIELD2": "Argentina",
+   "FIELD3": "Scotland",
+   "FIELD4": "Wales",
+   "FIELD5": "Camaroon"
+ },
+ {
+   "FIELD1": "Who got sent off in 2006 world cup final?",
+   "FIELD2": "Zinedine Zidane",
+   "FIELD3": "J. Hetinga",
+   "FIELD4": "L. Saha",
+   "FIELD5": "William Gallas"
+ },
+ {
+   "FIELD1": "Who is the only player to have won 3 World Cups?",
+   "FIELD2": "Pele",
+   "FIELD3": "Ronaldo Nazario",
+   "FIELD4": "Maradona",
+   "FIELD5": "A. Nesta"
+ },
+ {
+   "FIELD1": "Which is the only team to have appeared in every World Cup?",
+   "FIELD2": "Brazil",
+   "FIELD3": "Germany",
+   "FIELD4": "Italy",
+   "FIELD5": "England"
+ }
+]
